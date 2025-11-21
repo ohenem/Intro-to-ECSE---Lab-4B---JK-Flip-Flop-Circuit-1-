@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It "sets" to 1 if J is high and K is low, "resets" to 0 if K is high and J is low, holds its state if both are low, and "toggles" (flips its current state) if both J and K are high. 
 
 ## How to test
 
-Explain how to use your project
+Connect the J, K, and Clock inputs to appropriate signals and observe the Q and Q̅ outputs to verify the expected behavior for each input combination
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+2 LED
